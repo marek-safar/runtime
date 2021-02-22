@@ -86,7 +86,6 @@
     <Compile Include="System\Reflection\Internal\Utilities\BlobUtilities.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Properties\InternalsVisibleTo.cs" />
     <Compile Include="System\Reflection\Internal\MemoryBlocks\AbstractMemoryBlock.cs" />
     <Compile Include="System\Reflection\Internal\MemoryBlocks\ByteArrayMemoryBlock.cs" />
     <Compile Include="System\Reflection\Internal\MemoryBlocks\ByteArrayMemoryProvider.cs" />
